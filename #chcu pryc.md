@@ -1,3 +1,0 @@
-#chcu pryc
-
-##hned ale >:( 
