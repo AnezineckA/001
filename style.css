@@ -1,0 +1,15 @@
+section {
+    display: grid;
+    grid-template-columns: repeat(4, 100%);
+    grid-template-rows: repeat(4, 250%);
+}
+
+h1:hover {
+    color: blue;
+    grid-area: 1/1;
+}
+
+h2 {
+    color: palevioletred;
+    grid-area: 1/2;
+}
